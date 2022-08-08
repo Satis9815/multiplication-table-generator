@@ -10,7 +10,7 @@ function multiplication(e){
     else{
     let val=document.getElementById('table');
         val.innerHTML=`
-        <h2 style="font-family: consolas">Your multiplication table of ${typeValue} is given below</h2>
+        <h2 style="font-family: consolas;padding:10px 15px;">Your multiplication table of ${typeValue} is given below</h2>
         <p style="font-size:25px;">${typeValue} X ${1} = ${typeValue*1}</p>
         <p style="font-size:25px;">${typeValue} X ${2} = ${typeValue*2}</p>
         <p style="font-size:25px;">${typeValue} X ${3} = ${typeValue*3}</p>
