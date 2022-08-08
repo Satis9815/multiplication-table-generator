@@ -61,7 +61,7 @@ input{
     width: 308px;
     padding: 10px;
     font-size: 18px;
-  font-weight: 500;
+    font-weight: 500;
     overflow: hidden;
     transition: 0.2s;
     border-radius: 10px;
